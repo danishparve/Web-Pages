@@ -1,2 +1,3 @@
 # Web-Pages
 Different kinds of Web Pages for eg. Registration Page, Landing Page, Home Page and Many more, all built with HTML and CSS
+Pages such as Photography Portfolio, Flexbox based page, grid based page, grid Layout page are built were created via tutorial. It is not my work but rather I followed along to the the course: Python and Django Full stack Web Developer Bootcamp on Udemy by Jose Portilla. It is an excellent course and taught me some things I can better implement into my own projects. I have not uploaded this project to show mastery but rather as a back up, to avoid losing any code due to a PC mishap.
